@@ -19,10 +19,11 @@
 
 body {
   min-height: 100vh;
-  padding: 48px 128px;
+  padding: 48px;
   background-color: var(--very-light-gray);
   font-size: 15px;
   font-family: "Poppins", sans-serif;
+  color: var(--very-dark-blue);
 }
 
 .main {
@@ -43,6 +44,7 @@ body {
 
 .main__text {
   width: 35vw;
+  color: var(--grayish-blue);
 }
 
 .main__main-heading,
@@ -51,9 +53,10 @@ body {
 }
 
 .main__tools-container {
+  max-width: 75vw;
   margin-top: 48px;
   display: grid;
-  grid-template: 1fr 1fr / 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 32px;
 }
 
@@ -95,11 +98,10 @@ body {
 
 .tool__name {
   font-size: 1.2rem;
-  color: var(--very-dark-blue);
 }
 
 .tool__function {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--grayish-blue);
 }
 
