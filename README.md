@@ -9,6 +9,7 @@
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -36,3 +37,7 @@
 
 - GitHub - [@ahmedhanyh](https://github.com/ahmedhanyh)
 - Frontend Mentor - [@ahmedhanyh](https://www.frontendmentor.io/profile/ahmedhanyh)
+
+## Acknowledgments
+
+[@vcarames](https://www.frontendmentor.io/profile/vcarames) helped me structure the HTML content correctly.
